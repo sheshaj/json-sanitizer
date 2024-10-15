@@ -1,0 +1,23 @@
+{
+  "name": "json-sanitizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheshaj/json-sanitizer.git"
+  },
+  "keywords": [
+    "json-sanitizer",
+    "null-check"
+  ],
+  "author": "Sheshaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheshaj/json-sanitizer/issues"
+  },
+  "homepage": "https://github.com/sheshaj/json-sanitizer#readme"
+}
